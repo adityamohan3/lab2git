@@ -2,3 +2,4 @@ Name: Aditya Mohan
 Major: Computer Engineering
 Year: Senior
 Hobbies: Sports, Running, Chess, Video Games
+Courses I am Taking this Quarter: COEN 174(L), COEN 161(L), Political Science, Senior Design
